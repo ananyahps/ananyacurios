@@ -1,6 +1,8 @@
 /**
  * Site header
  */
+
+
 .site-header {
   border-radius: 30px;
   margin: 2%;
@@ -102,6 +104,29 @@
   }
 }
 
+.parent {
+  display: flex;
+  width:100%;
+  margin:0px;
+  max-width: none;
+}
+
+.text {
+  border-radius: 3px;
+  flex: 3;
+  background-color: #bca57783;
+  margin: 5px 2% 5px 1px;
+  padding:15px;
+}
+
+.posts {
+  border-radius: 15px;
+  flex: 1;
+  margin: 5px 1px 5px 2%;
+  background-color: #bca577;
+  padding:15px;
+}
+
 
 
 /**
@@ -177,10 +202,7 @@
 /**
  * Page content
  */
-.page-content {
-  padding: $spacing-unit 0;
-  flex: 1;
-}
+
 
 .page-heading {
   @include relative-font-size(2);
