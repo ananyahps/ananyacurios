@@ -35,8 +35,13 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  @include media-query($on-laptop) {
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+    padding-right: $spacing-unit * 0.5;
+    padding-left: $spacing-unit * 0.5;
+  }
 }
-
 
 
 /**
@@ -114,11 +119,6 @@ h1, h2, h3, h4, h5, h6 {
 a {
   color: $brand-color;
   text-decoration: none;
-
-  &:visited {
-    color: darken($brand-color, 15%);
-  }
-
   &:hover {
     color: $text-color;
     text-decoration: underline;

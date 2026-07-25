@@ -117,17 +117,21 @@
 }
 
 .text {
-  border-radius: 3px;
+  border-radius: 15px;
   flex: 3;
   background-color: #bca57783;
-  margin: 5px 2% 5px 1px;
+  border-style:dotted;
+  border-color: white;
+  margin: 5px 2% 5px 5px;
   padding:15px;
 }
 
 .posts {
   border-radius: 15px;
   flex: 1;
-  margin: 5px 1px 5px 2%;
+  margin: 5px 2px 5px 2%;
+  border-style:dotted;
+  border-color: white;
   background-color: #bca577;
   padding:15px;
 }
@@ -221,11 +225,11 @@
 .post-list {
   margin-left: 0;
   list-style: none;
-
-  > li {
-    margin-bottom: $spacing-unit;
-  }
+  padding: 0;
+  margin: 0;
 }
+
+
 
 .post-meta {
   font-size: $small-font-size;
@@ -234,7 +238,7 @@
 
 .post-link {
   display: block;
-  @include relative-font-size(1.5);
+  @include relative-font-size(1.15);
 }
 
 
@@ -254,6 +258,17 @@
   @include media-query($on-laptop) {
     @include relative-font-size(2.25);
   }
+}
+
+article{
+  margin: 2%;
+  padding: 10px 10px 10px 10px;
+  border-radius: 20px;
+  border-style:dotted;
+  border-width: 4px;
+  border-color: white;
+  background-color: #bca57783;
+
 }
 
 .post-content {
