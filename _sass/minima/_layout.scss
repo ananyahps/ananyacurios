@@ -15,17 +15,13 @@
 }
 
 .site-title {
+  color: #3d3525 !important;
   @include relative-font-size(1.625);
   font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-
-  &,
-  &:visited {
-    color: $grey-color-dark;
-  }
 }
 
 .site-nav {
@@ -205,6 +201,7 @@
 
 
 .page-heading {
+  color: #9f8b60 !important; 
   @include relative-font-size(2);
 }
 

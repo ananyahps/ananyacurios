@@ -8,6 +8,13 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
+::selection{
+  background:#ffffff
+}
+
+*{
+  cursor:url(cursor.cur),auto;
+}
 
 
 /**
@@ -16,8 +23,9 @@ dl, dd, ol, ul, figure {
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
-  background-color: $background-color;
-  background-image: url(ananyacurios.svg);
+  background-color: white;
+  background-image: url(acu5.svg);
+  background-size: 20%;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
      -moz-font-feature-settings: "kern" 1;
