@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "THINGS I WANT TO DO"
+---
+
+i want to make the images on the right relevant to each post, so i want a layout that does that where i can specify in the front matter the images i want to use.
+
+i want to make the images on the right rotate a random amount between like 1 and 5 or smth every time i enter a new page (or liek have some pre assigned layouts maybe) 
+
+i also obv want to add more vinyls and make the about me longer on the homepage
+
+add my resume, etc.
+
+FIX 404 PAGE WHY IT LOOK LIKE CRAP
