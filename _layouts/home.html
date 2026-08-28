@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pics
 ---
 
 <div class="home">
@@ -7,7 +7,6 @@ layout: default
     <h1 class="page-heading">{{ page.title }}
     </h1>
   {%- endif -%}
-  
   <div class = "parent">
     <div class = "posts">
   {%- if site.posts.size > 0 -%}
@@ -33,5 +32,15 @@ layout: default
     <div class = "text">
         {{ content }}
     </div>
+  </div>
+  <div class = "vinyl-box">
+
+{% for v in site.data.vinyls %}
+<div class="vinyl">
+  <img class="vinyl-pic" src="{{ v.image | relative_url }}" alt="{{ v.label | escape }}">
+  <span class="vinyldesc">{{ v.label }}</span>
+</div>
+{% endfor %}
+  
   </div>
 </div>
