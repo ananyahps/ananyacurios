@@ -15,6 +15,15 @@
 }
 
 
+
+.image-caption {
+  margin-top: 8px;
+  font-style: italic;
+  text-align: center;
+  width: 100%;
+}
+
+
 .wrappertwo {
   display: flex;
   align-items: flex-start;
@@ -89,14 +98,22 @@
   text-align: center;
   justify-content: center;
   gap: 16px;
+
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 16px;
 }
+
 
 .image-wrapper img{
   max-width: 100%;
 }
 
 .glow{
-text-shadow: #ffffff 0 0 3px,#bfc5a1 0 0 3px,#ffffff 0 0 3px,#ffffff 0 0 10px;
+text-shadow: #ffffffe0 0 0 3px,#a3c401 0 0 3px,#ffffff 0 0 3px,#ffffff 0 0 10px;
 }
 
 .big-wrapper{
@@ -128,6 +145,7 @@ text-shadow: #ffffff 0 0 3px,#bfc5a1 0 0 3px,#ffffff 0 0 3px,#ffffff 0 0 10px;
 .site-nav {
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
+  z-index: 1;
 
   .nav-trigger {
       display: none;

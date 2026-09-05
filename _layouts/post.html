@@ -23,11 +23,17 @@ layout: default
 </article>
 
 {%- for part in parts offset: 1 -%}
-  {%- assign pieces = part | split: "-->" -%}
-  {%- assign meta = pieces[0] | split: "|" -%}
+{%- assign pieces = part | split: "-->" -%}
+{%- assign meta = pieces[0] | split: "|" -%}
+{%- assign img_list = meta[0] | split: ";;" -%}
 
 <div class="image-wrapper">
-  <img src="{{ meta[0] | relative_url }}" alt="{{ meta[1] }}" style="width: {{ meta[2] }}; height: auto;">
+  {%- for img_src in img_list -%}
+    <img src="{{ img_src | relative_url }}" alt="{{ meta[3] }}" style="width: {{ meta[1] }}; height: auto;">
+  {%- endfor -%}
+  {%- if meta[2] != "" -%}
+  <p class="image-caption">{{ meta[2] }}</p>
+  {%- endif -%}
 </div>
 
 <article class="post h-entry">

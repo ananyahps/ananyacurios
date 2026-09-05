@@ -5,6 +5,6 @@
 layout: home
 ---
 
-hey! my name's ananya, and this site is full of things i find cool. you can find everything from social science to STEM to art to slice-of-life blog posts. 
+hey! my name's ananya, and this site is full of things i find cool. you can find everything from <span class="glow">social science</span> to <span class="glow">STEM</span> to <span class="glow">art</span>. 
 
 on the left are my most recent curiosities! give one of them a read ;)

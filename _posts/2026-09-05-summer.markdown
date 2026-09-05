@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "summer reading"
+---
+
+I read a lot this summer, for the first time in what seems like a long time. As easy as it is to take that as a failure in my own willpower, it would be better for both my self-esteem and your interest in this blog post to look back at our childhood to see what went wrong.
+
+Reading is, I think, one of the most fundamental parts of my existence, and has, though  unwittingly, been for a long, long time. My summer holidays in fourth grade consisted of four big collections of every Calvin and Hobbes strip written, and one very motivated tween. Obligatorily next came Harry Potter, then Percy Jackson, then a whole plethora of other quintessential books for the growing adolescent.
+
+And then hit freshman year. 
+
+I think, for a lot of us, eighth or ninth grade is the year where we start to lose touch with the literature that we once held so special. It's not like we never read, of course, just not for fun. Reading lists took on the meaning of an assigned chore rather than planning our next trips to the library.
+
+Books didn't fit into the schedule. I had too many things on my plate to really consider sitting down for two hours just *reading*, and with social media's ever-growing presence in my little life, reading was an afterthought. A performative thing you said you did, but you didn't really.
+
+Or maybe that last part was just me.
+
+In any case, I never once thought I would be reading this summer. It didn't even occur to me as a possibility. According to my summer productivity schedule, I wouldn't be doing anything but work! Or so I thought.  Not only did I underestimate my own level of procrastination, I found myself in the midst of completely unpredictable circumstances where I had days on days to do 
+
+absolutely
+
+nothing.
+
+I won't lie and say that I had a sudden epiphany to pick up a book and read, but my phone and laptop were dead, I happened to have a novel I'd been wanting to re-read for a while, and time galore. 
+
+So, after five minutes of lying on the bed staring at the roof, I picked the thing up and finished it in one go.
+
+{% include split.html images="/assets/book.jpg" alt="an image of Doctor Who: The day of the Doctor by Stephen Moffat" size="250px" caption="the book" %}
+
+(by the way, you do have to read it now)
+
+The book was incredible, and I'm glad it was, else none of this reading adventure would have ever been started in the first place. The next day, by another pure stroke of luck, we went to the bookstore. 
+
+Mind you, I love bookstores. Not just for the books, but for the atmosphere, new-book-smell, the nice people, everything. Not only that, we were in India, where the books were significantly cheaper than my usual residence in the United States. 
+
+So I picked up an unhealthy amount of books, one of which included *The Inheritance Games* by Jennifer Lynn Barnes, and the rest is history. A history that included me finishing the entire nine book series, among many many many others.
+
+{% include split.html images="/assets/hunger.jpg;;/assets/glorious.jpg;;assets/sherlock.jpg" alt="three book covers: the ballad of songbirds and snakes by suzanne collins, glorious rivals by jennifer lynn barnes, the memoirs of sherlock holmes by arthur conan doyle" size="250px" caption="some of my favorites" %}
+
+Suffice to say, reading lists make me excited again now, and I've decided that no matter the productivity schedule, I might find myself procrastinating with a kindle rather than instagram.
+
+Was this rant a waste of your time?
+
+Probably.
+
+Sorry!
