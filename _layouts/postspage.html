@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<header class="post-page-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    <button type="button" id="grid-view" onclick="grid()">grid view</button>
+    <button type="button" id="list-view" onclick="list()">list view</button>
+  </header>
+
+
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+<script>
+function grid() {
+document.getElementById("big-wrapper").style.display = "flex";
+document.getElementById("STUFF").style.display = "none";
+}
+function list() {
+document.getElementById("big-wrapper").style.display = "none";
+document.getElementById("STUFF").style.display = "block";
+}
+</script>
+

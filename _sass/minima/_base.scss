@@ -116,7 +116,7 @@ h1, h2, h3, h4, h5, h6 {
 /**
  * Links
  */
-a {
+a, button {
   color: $brand-color;
   text-decoration: none;
   &:hover {
@@ -132,6 +132,23 @@ a {
     }
   }
 }
+
+button:first-of-type {
+  appearance: none;
+  background: none;
+  border: none;
+  font: inherit;
+  margin-left: auto;
+}
+
+button {
+  appearance: none;
+  background: none;
+  border: none;
+  font: inherit;
+  margin-right: 16px;
+}
+
 
 
 /**

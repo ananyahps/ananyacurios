@@ -77,6 +77,54 @@
   float: left;
 }
 
+.image-wrapper {
+  margin: 2%;
+  padding: 10px 10px 10px 10px;
+  border-radius: 20px;
+  border-style:dotted;
+  border-width: 4px;
+  border-color: white;
+  background-color: #bca57783;
+  height: auto;
+  text-align: center;
+  justify-content: center;
+  gap: 16px;
+}
+
+.image-wrapper img{
+  max-width: 100%;
+}
+
+.glow{
+text-shadow: #ffffff 0 0 3px,#bfc5a1 0 0 3px,#ffffff 0 0 3px,#ffffff 0 0 10px;
+}
+
+.big-wrapper{
+  display: none;
+  flex-wrap: wrap; 
+  margin: 2%;
+  gap: 16px;
+}
+
+.grid-item {
+  /* Calculate width: 100% divided by 4 columns, minus the gap space */
+  flex: 0 0 calc((100% - (3 * 16px)) / 4); 
+  
+  /* Optional: Ensure padding/borders don't distort the calculation */
+  box-sizing: border-box; 
+  
+  /* Presentational styles (make it pretty) */
+  padding: 20px;
+  text-align: center;
+  border-radius: 20px;
+  border-style:dotted;
+  border-width: 4px;
+  border-color: white;
+  background-color: #bca57783;
+
+}
+
+
 .site-nav {
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
@@ -312,6 +360,20 @@
   margin-bottom: $spacing-unit;
 }
 
+.post-page-header {
+  margin-bottom: $spacing-unit;
+  margin: 2%;
+  display: flex;
+  padding: 10px 10px 10px 10px;
+  border-radius: 20px;
+  border-style: dotted;
+  border-width: 4px;
+  border-color: white;
+  background-color: #bca57783;
+  padding: 15px;
+  position: relative;
+}
+
 .post-title {
   @include relative-font-size(2.625);
   letter-spacing: -1px;
@@ -320,21 +382,24 @@
   @include media-query($on-laptop) {
     @include relative-font-size(2.25);
   }
+  margin: 0px !important;
 }
 
 article{
   margin: 2%;
   padding: 10px 10px 10px 10px;
   border-radius: 20px;
-  border-style:dotted;
+  border-style: dotted;
   border-width: 4px;
   border-color: white;
   background-color: #bca57783;
-
+  padding: 15px;
+  position: relative;
 }
 
 .post-content {
   margin-bottom: $spacing-unit;
+
 
   h2 {
     @include relative-font-size(2);
