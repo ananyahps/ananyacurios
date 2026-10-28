@@ -9,7 +9,10 @@ dl, dd, ol, ul, figure {
 }
 
 ::selection{
-  background:#ffffff
+  background:#715d487f;
+  text-shadow: #f6c4ca 0 0 3px,hsl(353, 74%, 87%) 0 0 3px,#ffffff 0 0 10px, #ffffff 0 0 10px;
+
+  transition: text-shadow 0.3s ease-in-out, transform 0.3s ease-in-out;
 }
 
 *{
@@ -120,9 +123,12 @@ a, button {
   color: $brand-color;
   text-decoration: none;
   &:hover {
-    color: #655744 !important; 
+    color: #5e7f51 !important; 
     filter: drop-shadow(0px 0px 2px rgba(211, 188, 166, 0.813));
   }
+
+  transition: filter 0.3s ease-in-out, transform 0.3s ease-in-out;
+  transition: color 0.3s ease-in-out, transform 0.5s ease-in-out;
 
   .social-media-list &:hover {
     text-decoration: none;

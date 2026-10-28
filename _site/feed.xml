@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-10-28T12:08:19-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ananya’s curios</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">women’s suffrage</title><link href="http://localhost:4000/womens-suffrage/" rel="alternate" type="text/html" title="women’s suffrage" /><published>2026-10-28T00:00:00-04:00</published><updated>2026-10-28T00:00:00-04:00</updated><id>http://localhost:4000/writing</id><content type="html" xml:base="http://localhost:4000/womens-suffrage/"><![CDATA[<p>The other day, I saw women arguing for the repealing of the 19th amendment.</p>
+
+<p>…in case you need a reminder, the nineteenth amendement is the amendment affirming women’s suffrage.</p>
+
+<p>I shouldn’t have to explain why that statement is deeply unsettling in the big 2026, especially before the midterm elections. In all honestly, we shouldn’t even have had to fight for the right to vote at all.</p>
+
+<p>I think this is a slippery slope towards more of our rights taken away. It begins with suffrage, and it ends in <em>The Handmaiden’s Tale</em>. A spectacular book, by the way.</p>
+
+<p>That’s all. Just wanted to put it out there.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[The other day, I saw women arguing for the repealing of the 19th amendment.]]></summary></entry><entry><title type="html">Dendrimers</title><link href="http://localhost:4000/2026/09/15/dendrimers.html" rel="alternate" type="text/html" title="Dendrimers" /><published>2026-09-15T00:00:00-04:00</published><updated>2026-09-15T00:00:00-04:00</updated><id>http://localhost:4000/2026/09/15/dendrimers</id><content type="html" xml:base="http://localhost:4000/2026/09/15/dendrimers.html"><![CDATA[<p>I spent two weeks of my summer banging by head against a table at least twice a day. In other words, I spent a lot of time writing chemistry code. Who knew that changing letters in strings could be so dang finnicky? I sure didn’t.</p>
+
+<p>Head-banging aside, my area of interest was actually REALLY cool. You see, there are these molecules called dendrimers, which are used in cancer treatment and drug delivery. They have three main parts: a core, a repeating dendron, and an end group.</p>
+
+<p>Dendrons attach to the core and repeat onwards, creating “generations”. Kind of the same concept as fractals.</p>
+
+<!--IMGBREAK|/assets/dendrimer.png|400px|generation two of PAMAM|a pic of a dendrimer-->
+
+<p>They’re SO cool. I found ways to construct these dendrimers quickly using the Wolfram Language at camp, and I had a lot of fun with it. You can read my <a href="https://community.wolfram.com/t/wsrp26-recursively-constructing-and-analyzing-dendritic-polymers/27227">funny journey</a> with them here. Spoiler: it did not go very well at all.</p>
+
+<p>That aside, I’m</p>]]></content><author><name></name></author><summary type="html"><![CDATA[I spent two weeks of my summer banging by head against a table at least twice a day. In other words, I spent a lot of time writing chemistry code. Who knew that changing letters in strings could be so dang finnicky? I sure didn’t.]]></summary></entry><entry><title type="html">Wip</title><link href="http://localhost:4000/2026/09/05/WIP.html" rel="alternate" type="text/html" title="Wip" /><published>2026-09-05T00:00:00-04:00</published><updated>2026-09-05T00:00:00-04:00</updated><id>http://localhost:4000/2026/09/05/WIP</id><content type="html" xml:base="http://localhost:4000/2026/09/05/WIP.html"><![CDATA[<p><span class="glow">COMING SOON!</span></p>]]></content><author><name></name></author><summary type="html"><![CDATA[COMING SOON!]]></summary></entry><entry><title type="html">summer reading</title><link href="http://localhost:4000/summer-reading/" rel="alternate" type="text/html" title="summer reading" /><published>2026-09-05T00:00:00-04:00</published><updated>2026-09-05T00:00:00-04:00</updated><id>http://localhost:4000/summer</id><content type="html" xml:base="http://localhost:4000/summer-reading/"><![CDATA[<p>I read a lot this summer, for the first time in what seems like a long time.</p>
+
+<p>Reading is, I think, one of the most fundamental parts of my existence, and has, though  unwittingly, been for a long, long time. My summer holidays in fourth grade consisted of four big collections of every Calvin and Hobbes strip written, and one very motivated tween. Obligatorily next came Harry Potter, then Percy Jackson, then a whole plethora of other quintessential books for the growing adolescent.
+ s much as I would now like to say that I still consider reading incredibly important, and I read all sorts of books and so on so forth, that’s just not true.</p>
+
+<p>Hnestly,I never once thought I would be reading this summer. It didn’t even occur to me as a possibility. According to my summer productivity schedule, I wouldn’t be doing anything but work! Or so I thought.  Not only did I underestimate my own level of procrastination, I found myself in the midst of completely unpredictable circumstances where I had days on days to do literally nothing</p>
+
+<p>I won’t lie and say that I had a sudden epiphany to pick up a book and read, but my phone and laptop were dead, I happened to have a novel I’d been wanting to re-read for a while, and a lot of time on my hands.</p>
+
+<p>So, after five minutes of lying on the bed staring at the roof, I picked the thing up and finished it in one go.</p>
+
+<!--IMGBREAK|/assets/book.jpg|250px|the book|an image of Doctor Who: The day of the Doctor by Stephen Moffat-->
+
+<p>(by the way, you do have to read it now)</p>
+
+<p>The book was incredible, and I’m glad it was, else none of this reading adventure would have ever been started in the first place. The next day, by another pure stroke of luck, we went to the bookstore.</p>
+
+<p>Mind you, I love bookstores. Not just for the books, but for the atmosphere, new-book-smell, the nice people, everything. Not only that, we were in India, where the books were significantly cheaper than my usual residence in the United States.</p>
+
+<p>So I picked up an unhealthy amount of books, one of which included <em>The Inheritance Games</em> by Jennifer Lynn Barnes, and the rest is history. A history that included me finishing the entire nine book series, among many many many others.</p>
+
+<!--IMGBREAK|/assets/hunger.jpg;;/assets/glorious.jpg;;assets/sherlock.jpg|250px|some of my favorites|three book covers: the ballad of songbirds and snakes by suzanne collins, glorious rivals by jennifer lynn barnes, the memoirs of sherlock holmes by arthur conan doyle-->
+
+<p>Suffice to say, reading lists make me excited again now, and I’ve decided that no matter the productivity schedule, I might find myself procrastinating with a kindle rather than instagram.</p>
+
+<p>Was this rant a waste of your time?</p>
+
+<p>Probably.</p>
+
+<p>Sorry!</p>]]></content><author><name></name></author><summary type="html"><![CDATA[I read a lot this summer, for the first time in what seems like a long time.]]></summary></entry></feed>
