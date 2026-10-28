@@ -10,6 +10,6 @@ Dendrons attach to the core and repeat onwards, creating "generations". Kind of 
 
 {% include split.html images="/assets/dendrimer.png" alt="a pic of a dendrimer" size="400px" caption="generation two of PAMAM" %}
 
-They're SO cool. I found ways to construct these dendrimers quickly using the Wolfram Language at camp, and I had a lot of fun with it. You can read my <a href="https://community.wolfram.com/t/wsrp26-recursively-constructing-and-analyzing-dendritic-polymers/27227">funny journey</a> with them here. Spoiler: it did not go very well at all.
+They're SO cool. I found ways to construct these dendrimers quickly using the Wolfram Language at camp, and I had a lot of fun with it. You can read my funny journey with them [here](https://community.wolfram.com/t/wsrp26-recursively-constructing-and-analyzing-dendritic-polymers/27227). Spoiler: it did not go very well at all.
 
-That aside, I'm 
+That's all! I'll see you on the next one ;)
