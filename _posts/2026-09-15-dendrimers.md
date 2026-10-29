@@ -1,5 +1,8 @@
 ---
 layout: post
+title:  "summer reading"
+permalink: /dendrimers/
+
 ---
 
 I spent two weeks of my summer banging by head against a table at least twice a day. In other words, I spent a lot of time writing chemistry code. Who knew that changing letters in strings could be so dang finnicky? I sure didn't.
