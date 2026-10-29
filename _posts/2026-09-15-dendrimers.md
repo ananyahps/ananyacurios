@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "summer reading"
+title:  "dendrimers"
 permalink: /dendrimers/
 
 ---
