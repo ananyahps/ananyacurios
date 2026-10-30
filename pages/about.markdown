@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: aboutpics
 title: About
 permalink: /about/
 ---

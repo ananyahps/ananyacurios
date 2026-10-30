@@ -667,6 +667,44 @@ article {
   }
 }
 
+.post-content2 {
+  margin-bottom: 30px;
+  margin: 2%;
+  padding: 10px 10px 10px 10px;
+  border-radius: 20px;
+  border-style: dotted;
+  border-width: 4px;
+  border-color: white;
+  background-color: rgba(188, 165, 119, 0.5137254902);
+  padding: 15px;
+  position: relative;
+  margin-bottom: 30px;
+}
+.post-content2 h2 {
+  font-size: 32px;
+}
+@media screen and (max-width: 800px) {
+  .post-content2 h2 {
+    font-size: 28px;
+  }
+}
+.post-content2 h3 {
+  font-size: 26px;
+}
+@media screen and (max-width: 800px) {
+  .post-content2 h3 {
+    font-size: 22px;
+  }
+}
+.post-content2 h4 {
+  font-size: 20px;
+}
+@media screen and (max-width: 800px) {
+  .post-content2 h4 {
+    font-size: 18px;
+  }
+}
+
 .vinyl-box {
   display: flex;
   gap: 24px;
