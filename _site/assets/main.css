@@ -21,7 +21,7 @@ dl, dd, ol, ul, figure {
 
 ::selection {
   background: rgba(113, 93, 72, 0.4980392157);
-  text-shadow: #f6c4ca 0 0 3px, hsl(353, 74%, 87%) 0 0 3px, #ffffff 0 0 10px, #ffffff 0 0 10px;
+  text-shadow: #ffffff 0 0 10px, #e7ffe8 0 0 3px, hsl(102, 29%, 35%) 0 0 3px, hsl(102, 29%, 35%) 0 0 3px;
   transition: text-shadow 0.3s ease-in-out, transform 0.3s ease-in-out;
 }
 
