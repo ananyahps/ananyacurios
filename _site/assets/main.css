@@ -727,21 +727,13 @@ article {
   height: 160px;
   border-radius: 50%;
   margin: 5px;
-  transition: transform 3s ease;
+  transition: transform 4s ease;
 }
 
 .vinyl-pic:hover {
-  animation: spin 4s linear infinite;
+  transform: rotate(360deg);
 }
 
-@keyframes spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
 .vinyldesc {
   display: block;
 }
